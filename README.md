@@ -1,7 +1,10 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
 
 
-
+ flat plates, to prevent radiation out the ends, and this is called a pillbox antenna.
+Orange peel - Another type is very long and narrow, shaped like the letter "C". This is called an orange peel design, and radiates an even wider fan beam. It is often used for radar antennas.
+Paraboloidal or dish - The reflector is shaped like a paraboloid. This is the most common type. It radiates a narrow pencil-shaped beam along the axis of the dish.
+Shrouded dish - Sometimes a cylindrica
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
@@ -173,10 +176,7 @@ Parabolic antennas are distinguished by their shapes:
 <img width="338" height="509" alt="image" src="https://github.com/user-attachments/assets/52ccc5fb-0e18-4539-93a9-2f6e82f48d24" />
 
 
-Cylindrical - The reflector is curved in only one direction and flat in the other. The radio waves come to a focus not at a point but along a line. The feed is often a dipole antenna located along the focal line. It radiates a fan-shaped beam, narrow in the curved dimension, and wide in the uncurved dimension. The curved ends of the reflector are sometimes capped by flat plates, to prevent radiation out the ends, and this is called a pillbox antenna.
-Orange peel - Another type is very long and narrow, shaped like the letter "C". This is called an orange peel design, and radiates an even wider fan beam. It is often used for radar antennas.
-Paraboloidal or dish - The reflector is shaped like a paraboloid. This is the most common type. It radiates a narrow pencil-shaped beam along the axis of the dish.
-Shrouded dish - Sometimes a cylindrical metal shield is attached to the rim of the dish. The shroud shields the antenna from radiation from angles outside the main beam axis, reducing the side lobes. It is sometimes used to prevent interference in terrestrial microwave links, where several antennas using the same frequency are located close together. The shroud is coated inside with microwave absorbent material. Shrouds can reduce back lobe radiation by 10 dB.
+Cylindrical - The reflector is curved in only one direction and flat in the other. The radio waves come to a focus not at a point but along a line. The feed is often a dipole antenna located along the focal line. It radiates a fan-shaped beam, narrow in the curved dimension, and wide in the uncurved dimension. The curved ends of the reflector are sometimes capped byl metal shield is attached to the rim of the dish. The shroud shields the antenna from radiation from angles outside the main beam axis, reducing the side lobes. It is sometimes used to prevent interference in terrestrial microwave links, where several antennas using the same frequency are located close together. The shroud is coated inside with microwave absorbent material. Shrouds can reduce back lobe radiation by 10 dB.
 They are also classified by the type of feed; how the radio waves are supplied to the antenna:
 Axial or front feed - This is the most common type of feed, with the feed antenna located in front of the dish at the focus, on the beam axis. A disadvantage of this type is that the feed and its supports block some of the beam, which limits the aperture efficiency to only 55 - 60%.
 Offset or off-axis feed - The reflector is an asymmetrical segment of a paraboloid, so the focus, and the feed antenna, is located to one side of the dish. The purpose of this design is to move the feed structure out of the beam path, so it doesn't block the beam. It is widely used in home satellite television dishes, which are small enough that the feed structure would otherwise block a significant percentage of the signal.
@@ -250,4 +250,3 @@ These adapters consist of a short section of waveguide with a probe transition c
 
 ## Conclusions:
 Thus,the experiment is studied and verified
-
